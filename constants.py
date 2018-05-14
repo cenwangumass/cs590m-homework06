@@ -1,0 +1,2 @@
+IDLE = "IDLE"
+BUSY = "BUSY"
